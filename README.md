@@ -1,0 +1,2 @@
+# canary-demo
+istio implementation
